@@ -9,4 +9,4 @@ print("hello world")
 
 print("this is a new feature")
 
-ptint('Abahy')
+print({'age': 25, 'name': 'abhay'})
