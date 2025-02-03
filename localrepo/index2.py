@@ -9,4 +9,5 @@ print("hello world")
 
 print("this is a new feature")
 
-ptint('Abahy')
+ptint('Abahy', 'kajal')
+
