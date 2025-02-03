@@ -9,5 +9,9 @@ print("hello world")
 
 print("this is a new feature")
 
+
 ptint('Abahy', 'kajal')
+
+
+print({'age': 25, 'name': 'abhay'})
 
